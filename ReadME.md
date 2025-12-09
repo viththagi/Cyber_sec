@@ -26,3 +26,25 @@ local-security-monitor/
 ## ⚙ Installation
 Install dependencies:
 pip install psutil
+
+## 🚀 Future Improvements
+- Email/Discord alerting  
+- Monitoring CPU spikes for malware  
+- Parsing Windows event logs  
+- GUI dashboard  
+- Hash comparison for file integrity  
+
+---
+
+## 📚 Learning Outcomes
+This project demonstrates:
+- Basic threat detection  
+- Python system monitoring  
+- Log-based security event tracking  
+- Cybersecurity fundamentals  
+
+---
+
+## 👤 Author
+Built as a practical cybersecurity mini-project after completing  
+**"Practical Cybersecurity for IT Professionals" – LinkedIn Learning**.
